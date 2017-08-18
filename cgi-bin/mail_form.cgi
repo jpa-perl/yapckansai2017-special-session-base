@@ -99,7 +99,7 @@ HTML
         # 送信モード
 
         # メール送信
-        $to      = 'nqou.net@gmail.com';
+        $to      = '';
         $subject = 'mail_form';
         $body    = <<"BODY";
 お名前　　　　： $name
